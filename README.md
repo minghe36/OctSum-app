@@ -1,12 +1,22 @@
 # 章鱼总结 OctSum · AI 视频总结与视频笔记
 
 章鱼总结是一款AI视频总结、AI视频笔记软件，电脑端软件免费使用，支持 Windows 和 mac 开箱即用。
+
 一键下载与总结B站视频，总结youtube视频，批量总结收藏夹视频。
+
 使用超省钱 / 总结很到位 / 多端随时看 / 快搜快查视频知识库。
+
 带有历时 1 年深度优化的本地模型执行引擎
+
 粘贴 B 站或 YouTube 视频链接，或导入本地音视频，就能把内容转成逐字稿，再生成带时间戳的总结、脑图等。
 
-[访问官网](https://www.octsum.com) · [下载安装包](https://github.com/minghe36/OctSum-app/releases/latest) · [更新日志](./changelog/desktop) [视频教程](https://www.bilibili.com/video/BV1tVWm6GEuG) [文字教程](https://www.octsum.com/guide/)
+<p align="center">
+  <a href="https://www.octsum.com">访问官网</a> ·
+  <a href="https://github.com/minghe36/OctSum-app/releases/latest">下载安装包</a> ·
+  <a href="./changelog/desktop">更新日志</a> ·
+  <a href="https://www.bilibili.com/video/BV1tVWm6GEuG">视频教程</a> ·
+  <a href="https://www.octsum.com/guide/">文字教程</a>
+</p>
 
 下载软件后，到[官网](https://www.octsum.com) 0 元领取下永久使用激活码，激活软件后即可全功能使用。
 
@@ -50,12 +60,19 @@
 ## 历时 1 年深度优化的本地模型执行引擎
 
 0 配置高速下载本地模型（自建了下载节点）
+
 Windows 带有 CUDA 显卡加速引擎，MAC Metal+并发优化，不是简单的套壳软件，可能市面上运行 qwen3-asr-1.7B 模型最快的软件
+
 快：本地转录3分钟视频（使用qwen3-asr-1.7B-章鱼优化版模型），mac mini m4 16G 20 秒内完成，Windows 5060 显卡 32 秒
+
 准：识别准确率 汉语 96%、英语 97%、日语 94%
+
 齐：自研词语级对齐算法，词语音频对齐率98%
+
 支持任意长度的音视频转录，目前测试最长视频是 4 小时，2 小时的文件mac 耗时仅需 6 分钟，Windows i5 5060显卡 仅需 10 分钟
+
 支持 中文、英文、日语、韩语、葡萄牙语、西班牙语、阿拉伯语、意大利语、德语、法语、印地语、泰语、越南语、印尼语、俄语、菲律宾语、土耳其语
+
 自带说话人识别，分割准确率 95%
 
 
