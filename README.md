@@ -98,4 +98,8 @@ Windows 带有 CUDA 显卡加速引擎，MAC Metal+并发优化，不是简单�
 
 ## 浏览器扩展、CLI 与 Skill
 
-在 Chrome 或 Edge 中，可以通过浏览器扩展把当前视频交给桌面应用处理。需要批量或脚本操作时，可以在应用设置中安装 `octsum` CLI，通过命令行提交下载、转录和总结任务，或读取已有结果。支持 Skill 的 AI 助手也可以通过 CLI 调用这些能力。[OctSum Skill 使用说明](./skills/octsum-skill/SKILL.md)
+在 Chrome 或 Edge 中，可以通过浏览器扩展把当前视频交给桌面应用处理。
+
+需要批量或脚本操作时，可以在应用设置中安装 `octsum` CLI，通过命令行提交下载、转录和总结任务，或读取已有结果。
+
+支持 Skill 的 AI 助手也可以通过 CLI 调用这些能力。[OctSum Skill 使用说明](./skills/octsum-skill/SKILL.md)
